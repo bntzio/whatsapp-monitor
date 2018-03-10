@@ -1,1 +1,2 @@
 selenium==3.6.0
+pyperclip==1.6.0
